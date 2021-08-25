@@ -1,0 +1,51 @@
+
+
+
+<svg id="preview-svg-root" width="720" height="92" xmlns="http://www.w3.org/2000/svg"
+     version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:svgjs="http://svgjs.com/svgjs" font-size="16px" font-family="Helvetica, Arial, sans-serif">
+    <defs>
+            </defs>
+    <g transform="scale(1)">
+        <rect width="720" height="92"
+              class="frame fill" fill="rgb(25,20,34)" data-fill="rgba(229,230,232,1)"></rect>
+        <image id="svg-header-img" width="720" height="92" preserveAspectRatio="xMaxYMin slice"
+               xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABcAtADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5zooorcYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAWrdrWKMPNG08h6R7tqge5HJ+gx9auDWp4ET7EIbc87gkCcemGOSfxNZkQRmxIxQHo2M4+tLPC8L7XHUZBHII9Qa0U5RXu6DNmDXryeO4S9usr5ZK7o0ILdhjb3/CsyKL7bLtgWOOU9E3YDfTPf2z9Kq0UOo5W5tQuSTwS28hjnjeNx1V1INR1rWev39tEIWdLiEdI50DgfTPNWV8Qwn/AF2i6Y/qRHtNNRpv7Vvl/kFkYFFdXEdC1qMQx266dfNwvzHYT256D8q5/U7CfTrpoLkAOvdTkGidJxXMndd0DVipRRRWQgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK0rBPten3sLctBH58ftggMPoQc/gKzatabdfY7tZWXfGQUkT+8pGCPyNXTaUtdgKtFPmVUkYRtvTPyt0yKIIZJ5VigRpJGOAqjJNTbWwDKKtXVqtrlJpkM3eOP5tvsT0/LNVaGmtGAqsVYMpIYHII7V19yB4j8MNeMB/aNgMSMOrp1yfw/ka4+ux+H6tGuoTSgC0aPy2YnjdkYH610YX3pezez/q/yKjvY46iiiuYkKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKBycDrW1Z+GdSuYvNMSwRYzvnbaMfzq4U5VHaCuBi0VuNoUCHEmsaeGHZXJ/pTR4fkk/49b/T5z/dWbB/IgVf1ep2/L/MDFrotSI0KzSwt+L6ZA1zKOqg9EB7D19ay77Sr6xGbq2kRf72Mr+Y4q14kl+23EOorytzGu7/ZdQAw/QH8acU6cZXVpafd1Ax6KKKwAK66A/2d8P5i/El9LhB7cf0U/nWHoOlyarqCQr8sQ+aV+yr3q34t1OO+vUgtMCytV8uIDofU/wCfSuml+7hKo+ui/X7kUtNTCooormJCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOq+H1rBPqM8swDSQoDGp9SeT+H9aoeKtSurvVbiGZ2WGKQosecAAHGfrWbp17Pp92lxbPtkX8iPQ+1dBdX+ja6A9+JLC9xgyou5G+o/z9a7oTU6Hsk7O/3/P/ADJ63OWordbw5JJzY3tldDsFlCt+RqI+GtWH/LqPwlT/ABrneHq/yv8AP8irlK01K8sz/o9zKg/u7sqfwPFWJNSiuYnjurdULkEyQDbz6lehP0xTn0DUE5liijHq88Y/9mpBpcMePtepWkY7iMmU/wDjox+tUo1krPbz/wCCBnSoqt8jh17EcfpV/SdHudRJdAIrZP8AWTycIo+vep0uNIsuYLaa9lHRrg7E+u0cn8TVXUtVu9Qws8mIl+7Eg2ov0AqeWEdZO/kv8/8AIDS1HVbe0sW0zRciFv8AXXB4aU/0Fc9RRUVKjm7sAoooqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//Z"></image>
+        
+        <rect class="toolbar fill" fill="rgb(113,89,193)"
+            width="720" height="48" y="44"
+            data-fill="rgba(255,255,255,0.6)"/>
+        <rect id="svg-selected-tab" class="tab_selected toolbar fill" fill="rgb(25,20,34)"
+            width="166" height="34" x="28" y="5" rx="4"
+            data-fill="rgba(255,255,255,0.6)" stroke="transparent" stroke-width="1.5"/>
+        <rect class="tab_line stroke" stroke="rgba(255,255,255,0)"
+            width="166" height="34" x="28" y="5" rx="4"
+            fill="transparent" data-stroke="rgba(0,0,0,0.25)" stroke-width="1.5"/>
+        <rect class="bookmark_text fill" fill="rgb(255,255,255)"
+            width="121" height="4" x="51" y="20" rx="2"
+            data-fallback="tab_background_text" />
+        <rect class="tab_background_text fill" fill="rgb(113,89,193)"
+            width="121" height="4" x="221" y="20" rx="2" />
+        <rect id="svg-url-field" class="toolbar_field fill" fill="rgba(255,255,255,0.2)"
+            width="528" height="32" x="114" y="52" rx="4"
+            data-fill="rgba(255,255,255,1)"/>
+        <rect id="svg-url-field-text" class="toolbar_field_text fill" fill="rgb(25,20,34)"
+            width="342" height="4" x="146" y="66" rx="2.2"/>
+        <circle class="toolbar_field_text stroke" stroke="rgb(25,20,34)"
+            cx="130" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" stroke-width="1.5" fill="transparent"/>
+        <circle class="bookmark_text stroke" stroke="rgb(255,255,255)"
+            cx="24" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" data-fallback="tab_background_text" stroke-width="1.5" fill="transparent" />
+        <circle class="bookmark_text stroke" stroke="rgb(255,255,255)"
+            cx="60" cy="68" r="6.25"
+            data-stroke="rgba(0,0,0,1)" data-fallback="tab_background_text" stroke-width="1.5" fill="transparent" />
+        <g transform="translate(689 61.75)"
+            class="bookmark_text fill" fill="rgb(255,255,255)"
+            data-fallback="tab_background_text">
+          <rect width="14" height="1.5" rx="1.333"/>
+          <rect width="14" height="1.5" y="6" rx="1.333"/>
+          <rect width="14" height="1.5" y="12" rx="1.333"/>
+        </g>
+    </g>
+</svg>
